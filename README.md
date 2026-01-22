@@ -19,6 +19,8 @@
 
 **Guessify** is a fun and interactive web-based number guessing game. The system randomly generates a secret number, and the user tries to guess it. After each guess, the game gives instant feedback: too high, too low, or correct.
 
+> 💡 **Why Guessify?** It helps you practice logical thinking, improves number intuition, and teaches DOM manipulation basics in real-time.
+
 ---
 
 ## ✨ Key Features
@@ -44,8 +46,8 @@
 
 ## 🧠 How It Works
 
-1. Generate random number (1–100) on page load.  
-2. User enters guess & clicks **Check Guess**.  
+1. Generate a random number (1–100) on page load.  
+2. User enters a guess & clicks **Check Guess**.  
 3. Validate input (number, 1–100).  
 4. Compare guess with secret number.  
    - Too low → "Too Low"  
@@ -69,16 +71,42 @@
 
 ## 🏗️ Project Structure
 
+```
 Guessify/
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
-
-
-## ▶ How to Run
-
-```bash
-git clone https://github.com/your-username/Guessify.git
-Open index.html in a browser. Start playing 🎯
 ```
+
+---
+
+## 🎯 Learning Outcomes
+
+- JavaScript logic & conditionals  
+- Event handling  
+- DOM manipulation  
+- Input validation  
+- Frontend project structuring  
+
+---
+
+## 🚀 Future Enhancements
+
+- Difficulty levels  
+- Max attempt limits  
+- Timer-based gameplay  
+- Sound effects  
+- Scoreboard with localStorage  
+
+---
+
+## 📄 License
+
+MIT License
+
+---
+
+## 👤 Author
+
+Bhavith Madhav
