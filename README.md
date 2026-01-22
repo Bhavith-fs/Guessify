@@ -69,3 +69,10 @@
 
 ## 🏗️ Project Structure
 
+Guessify/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
+
