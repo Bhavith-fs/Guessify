@@ -76,3 +76,9 @@ Guessify/
 └── README.md
 
 
+
+## ▶ How to Run
+
+```bash
+git clone https://github.com/your-username/Guessify.git
+Open index.html in a browser. Start playing 🎯
