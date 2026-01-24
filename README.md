@@ -108,6 +108,5 @@ MIT License
 ---
 
 ## 👤 Author
-
-Bhavith Madhav
+Bhavith Madhav  
 Cybersecurity & Network Security Enthusiast
