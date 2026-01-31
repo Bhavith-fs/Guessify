@@ -30,7 +30,7 @@
 - Attempt counter  
 - Input validation  
 - Play Again / Reset button 
-- Fully client-side  
+- Fully client-side 
 
 ---
 
