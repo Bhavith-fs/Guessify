@@ -29,7 +29,7 @@
 - Real-time feedback  
 - Attempt counter  
 - Input validation  
-- Play Again / Reset button  
+- Play Again / Reset button 
 - Fully client-side  
 
 ---
