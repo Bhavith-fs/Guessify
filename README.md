@@ -99,14 +99,9 @@ Guessify/
 - Sound effects  
 - Scoreboard with localStorage  
 
----
-
-## 📄 License
-
-MIT License
 
 ---
 
-## 👤 Author
+## 👤 Developer
 Bhavith Madhav  
 Cybersecurity & Network Security Enthusiast 
